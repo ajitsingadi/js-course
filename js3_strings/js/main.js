@@ -5,7 +5,7 @@ console.log(myVariable.length); //length property */
 
 console.log(myVariable.charAt(0));
 console.log(myVariable.indexOf("ati"));
-console.log(myVariable.lastIndexOf("ath")); // last occurrence of the char or group of cahr
+console.log(myVariable.lastIndexOf("ath")); // last occurrence of the char or group of char
 
 console.log(myVariable.slice(2, 5)); // extracts a section of a string and returns it as a new string, without modifying the original string.
 
